@@ -3,7 +3,7 @@
 {"city" : "Miami",   	"mascot" : "Dolphins",		"short" : "MIA", 	"homeText" : "D3BC8D",	"homeMain" : "000000",	"homeSecondary" : "FFFFFF",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "D3BC8D"},
 {"city" : "New England",     	"mascot" : "Patriots",			"short" : "NE", 	"homeText" : "FFB612",	"homeMain" : "773141",	"homeSecondary" : "FFB612",	"awayText" : "773141",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFB612"},
 {"city" : "New York",   	"mascot" : "Jets",	    "short" : "NYJ", 	"homeText" : "A71930",	"homeMain" : "0B2265",	"homeSecondary" : "FFFFFF",	"awayText" : "A71930",	"awayMain" : "FFFFFF",  "awaySecondary" : "0B2265"},
-{"city" : "Baltimore",  		"mascot" : "Raves",	    "short" : "BAL", 	"homeText" : "FFFFFF",	"homeMain" : "AA0000",	"homeSecondary" : "FFFFFF",	"awayText" : "AA0000",	"awayMain" : "FFFFFF",  "awaySecondary" : "AA0000"},
+{"city" : "Baltimore",  		"mascot" : "Ravens",	    "short" : "BAL", 	"homeText" : "FFFFFF",	"homeMain" : "AA0000",	"homeSecondary" : "FFFFFF",	"awayText" : "AA0000",	"awayMain" : "FFFFFF",  "awaySecondary" : "AA0000"},
 {"city" : "Cincinnati",    	"mascot" : "Bengals",	    	"short" : "CIN", 	"homeText" : "FFFFFF",	"homeMain" : "000000",	"homeSecondary" : "0076B6",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "0076B6"},
 {"city" : "Cleveland",      	"mascot" : "Browns",		"short" : "CLE", 	"homeText" : "FFFFFF",	"homeMain" : "002D72",	"homeSecondary" : "FFCD00",	"awayText" : "002D72",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFCD00"},
 {"city" : "Pittsburgh",  	"mascot" : "Steelers",		"short" : "PIT", 	"homeText" : "FFFFFF",	"homeMain" : "97233F",	"homeSecondary" : "000000",	"awayText" : "97233F",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
