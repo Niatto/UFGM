@@ -27,7 +27,7 @@
 {"city" : "Carolina",     	"mascot" : "Panthers",	  		"short" : "CAR", 	"homeText" : "FFFFFF",	"homeMain" : "101820",	"homeSecondary" : "FFB612",	"awayText" : "101820",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFB612"},
 {"city" : "New Orleans", 	"mascot" : "Saints",			"short" : "NO", 	"homeText" : "002D72",	"homeMain" : "FFCD00",	"homeSecondary" : "002D72",	"awayText" : "002D72",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFCD00"},
 {"city" : "Tampa Bay", 	"mascot" : "Buccaneers ",		"short" : "TB", 	"homeText" : "FFFFFF",	"homeMain" : "343B3A",	"homeSecondary" : "FFFFFF",	"awayText" : "343B3A",	"awayMain" : "FFFFFF",  "awaySecondary" : "343B3A"},
-{"city" : "Arizona",	"mascot" : "Cardinals ",		"short" : "ARI", 	"homeText" : "000000",	"homeMain" : "418FDE",	"homeSecondary" : "000000",	"awayText" : "418FDE",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
+{"city" : "Arizona",	"mascot" : "Cardinals ",		"short" : "ARI", 	"homeText" : "000000",	"homeMain" : "97233F",	"homeSecondary" : "FFB612",	"awayText" : "418FDE",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
 {"city" : "Los Angeles",   "mascot" : "Rams",		"short" : "LAR", 	"homeText" : "FFFFFF",	"homeMain" : "000000",	"homeSecondary" : "002C5F",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "002C5F"},
 {"city" : "San Francisco",   		"mascot" : "49ers",		"short" : "SF", 	"homeText" : "FFFFFF",	"homeMain" : "006778",	"homeSecondary" : "101820",	"awayText" : "006778",	"awayMain" : "FFFFFF",  "awaySecondary" : "101820"},
 {"city" : "Seattle",        	"mascot" : "Seahawks",		"short" : "SEA", 	"homeText" : "FFFFFF",	"homeMain" : "03202F",	"homeSecondary" : "A71930",	"awayText" : "03202F",	"awayMain" : "FFFFFF",  "awaySecondary" : "A71930"}
