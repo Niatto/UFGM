@@ -1,4 +1,4 @@
-﻿Baltimore Ravens, BALTIMORE
+﻿Baltimore Ravens, BAL
 CB,Jimmy Smith,32,2011,83,85,78,82,88,77,3.5,1
 CB,Anthony Averett,25,2018,67,58,92,68,93,60,0.7,2
 CB,Marcus Peters,27,2015,85,89,93,84,91,76,14.0,2
